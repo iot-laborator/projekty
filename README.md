@@ -9,3 +9,7 @@ Vytvořte si vlastní GIT repository, ve kterém budou uloženy následující s
 
 Pošlete link na vlastní GIT repository do Slacku IoT laboratoře nebo na iotskola@gmail.com.
 
+---
+
+# Projekty 2019-2020
+
