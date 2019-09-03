@@ -3,7 +3,7 @@ Zde naleznete rozcestník na studentské projekty, které vznikly v rámci IoT l
 
 ## Jak přidat projekty?
 Vytvořte si vlastní GIT repository, ve kterém budou uloženy následující soubory:
-1) dokumentace k produktu (včetně fotografie funkčního produktu)
+1) [dokumentace](https://docs.google.com/document/d/1VM-ebwWNbev2lKucyDISFFYJumYEJGv5SVR97pVydBE/edit?usp=sharing) k produktu (včetně fotografie funkčního produktu)
 2) krátké video o produktu - do 2-3 minut
 3) webová stránka produktu nebo leták představující produkt
 
