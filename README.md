@@ -46,7 +46,7 @@ Fotografie produktu (využijte pro uložení obrázku git - např. do složky vi
 
 Leták produktu (využijte pro uložení obrázku git - např. do složky visuals)
 
-Video k projektu
+Video k projektu (max. 3 min.)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3pghCTGc0wo/0.jpg)](http://www.youtube.com/watch?v=3pghCTGc0wo)
 
