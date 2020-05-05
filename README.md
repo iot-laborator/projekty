@@ -36,15 +36,20 @@ Seznam použitého HW.
 
 Technický popis řešení, backend, frontend.
 
+Program (kód) uložte na gitu (např. do složky source nebo code)
+
 ---
 
 ### Vizuály
 
-Fotografie produktu
+Fotografie produktu (využijte pro uložení obrázku git - např. do složky visuals)
 
-Leták produktu
+Leták produktu (využijte pro uložení obrázku git - např. do složky visuals)
 
 Video k projektu
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3pghCTGc0wo/0.jpg)](http://www.youtube.com/watch?v=3pghCTGc0wo)
+
+(POZOR!!! git má omezení velikosti souboru 100 MB)
 
 
 
