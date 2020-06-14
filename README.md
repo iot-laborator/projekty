@@ -36,6 +36,8 @@ Seznam použitého HW.
 
 Technický popis řešení, backend, frontend.
 
+Využití IBM Cloudu.
+
 Program (kód) uložte na gitu (např. do složky source nebo code)
 
 ---
